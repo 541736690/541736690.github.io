@@ -1,3 +1,10 @@
+---
+layout: default
+title: Ziyi Zhang's Homepage
+description: System Researcher / Competitive Programmer
+---
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/541736690/541736690.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
