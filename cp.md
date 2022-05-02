@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Competitive Programming
-description: crazy coding sports...
+description: Crazy Coding Sports...
 ---
 
 I started doing competitive programming in my undergrad, and I am glad to be a particpant and a coach in the [UW-Madison ICPC Team](https://pages.cs.wisc.edu/~dieter/ICPC/), where I am advised by [Prof. Dieter van Melkebeek](https://pages.cs.wisc.edu/~dieter/).
