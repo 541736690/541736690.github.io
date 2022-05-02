@@ -1,50 +1,48 @@
 ---
 layout: default
 title: Ziyi Zhang's Homepage
-description: System Researcher / Competitive Programmer
+description: 
 ---
 
+## Hi!
 
-## Welcome to GitHub Pages
+I am Ziyi Zhang, a senior undergrad majoring in Computer Sciences and Mathematics at University of Wisconsin -Madison. It is my pleasure to be advised by Prof. Shivaram Venkataraman on system research and by Prof. Dieter van Melkebeek on competitive programming.
 
-You can use the [editor on GitHub](https://github.com/541736690/541736690.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I took a gap year before my senior year and worked as a research intern at Bytedance Inc., where I was advised by Yibo Zhu and Bairen Yi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests lie in distributed systems and machine learning systems. The projects I worked on include low-level DNN operator accelerations, high-level ML system pipeline optimizations, and video processing system development. I am particularly interested in designing high-performance ML/Big Data Systems. I am actively looking for PhD positions that start in Fall 2022.
 
-### Markdown
+Refer to my CV for things that I have done.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### News
 
-```markdown
-Syntax highlighted code block
+\[2022/04\] I am going to UChicago for my PhD this fall!
+\[2021/10\] I, with my teammates, went to ICPC World Finals at Moscow and won the 17th place!
+\[2020/09\] I am joining ByteDance as a research intern on machine learning system!
 
-# Header 1
-## Header 2
-### Header 3
+### Research Projects
+I did various research projects both in my university and at ByteDance, including:
+- Building video processing library to perform video DNN tasks.
+- Optimizing DNN operators in model parallelism.
+- Optimizing the performance of recommendation system models.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/541736690/541736690.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+More details [here](./research.html).
 
 ### Competitive Programming
 
-I spent tons of time as a competitve programming.
+A (crazy) lot of time in my undergrad was devoted to competitive programming, and I am
+- Champion (out of 180 teams) in 2019 ICPC NCNA Regional (scoreboard: link).
+- 17th place (out of 118 teams) in 2020 ICPC World Finals (results: link).
+- a coach and a participant in UW-Madison ICPC Team.
+- International Grandmaster (highest rank 169 globally) on Codeforces (handle: RobeZH).
 
-View more here: [Link to another page](./cp.html).
+View more [here](./cp.html).
+
+### Teaching/Mentoring Experience
+
+I love teaching and mentoring students. My related activities includes:
+- Undergrad Teaching Assistant for “Introduction to Algorithms”.
+- Discussion leader in weekly meetings for UW-Madison ICPC Team.
+- 1-on-1 mentorship at CUSA (Chinese Undergraduate Student Association).
+
+More details [here](./teaching.html).
