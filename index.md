@@ -6,11 +6,9 @@ description:
 
 ## Hi!
 
-I am Ziyi Zhang, a senior undergrad majoring in Computer Sciences and Mathematics at University of Wisconsin -Madison. It is my pleasure to be advised by Prof. Shivaram Venkataraman on system research and by Prof. Dieter van Melkebeek on competitive programming.
+I am Ziyi Zhang, a senior undergrad majoring in Computer Sciences and Mathematics at University of Wisconsin -Madison. It is my pleasure to be advised by [Prof. Shivaram Venkatarama](https://shivaram.org/) on system research and by [Prof. Dieter van Melkebeek](https://pages.cs.wisc.edu/~dieter/) on competitive programming.
 
-I took a gap year before my senior year and worked as a research intern at Bytedance Inc., where I was advised by Yibo Zhu and Bairen Yi.
-
-My research interests lie in distributed systems and machine learning systems. The projects I worked on include low-level DNN operator accelerations, high-level ML system pipeline optimizations, and video processing system development. I am particularly interested in designing high-performance ML/Big Data Systems. I am actively looking for PhD positions that start in Fall 2022.
+My research interests lie in distributed systems and machine learning systems. The projects I worked on include low-level DNN operator accelerations, high-level ML system pipeline optimizations, and video processing system development. I am particularly interested in designing high-performance ML/Big Data Systems. 
 
 Refer to my CV for things that I have done.
 
@@ -19,12 +17,9 @@ Refer to my CV for things that I have done.
 \[2022/04\] I am going to UChicago for my PhD this fall!
 
 ### Research Projects
-I did various research projects both in my university and at ByteDance, including:
-- Building video processing library to perform video DNN tasks.
-- Optimizing DNN operators in model parallelism.
-- Optimizing the performance of recommendation system models.
 
-More details [here](./research.html).
+## Recommendation System
+Recommendation models is prevalent these days for click rate prediction in big companies where they could be used to find the short videos/advertisement that users might be interested to see. We re-investigated the training process of recommendation system and make the training faster and less memory intensive for GPUs. [Arxiv](https://arxiv.org/abs/2202.12429) 
 
 ### Competitive Programming
 
