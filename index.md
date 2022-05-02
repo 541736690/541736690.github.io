@@ -23,13 +23,9 @@ Recommendation models is prevalent these days for click rate prediction in big c
 
 ### Competitive Programming
 
-A (crazy) lot of time in my undergrad was devoted to competitive programming, and I am
-- Champion (out of 180 teams) in 2019 ICPC NCNA Regional (scoreboard: link).
-- 17th place (out of 118 teams) in 2020 ICPC World Finals (results: link).
-- a coach and a participant in UW-Madison ICPC Team.
-- International Grandmaster (highest rank 169 globally) on Codeforces (handle: RobeZH).
+A (crazy) lot of time in my undergrad was devoted to competitive programming (also known as programming contests)
 
-View more [here](./cp.html).
+View my stories [here](./cp.html)!
 
 ### Teaching/Mentoring Experience
 
