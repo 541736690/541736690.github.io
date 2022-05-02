@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching
-description: Cultivation...
+description: a little bit of cultivation
 ---
 
 ### ICPC Coaching
