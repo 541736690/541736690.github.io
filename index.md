@@ -16,9 +16,9 @@ Refer to my CV for things that I have done.
 
 \[2022/04\] I am going to UChicago for my PhD this fall!
 
-### Research Projects
+## Research Projects
 
-## Recommendation System
+### Recommendation System
 Recommendation models is prevalent these days for click rate prediction in big companies where they could be used to find the short videos/advertisement that users might be interested to see. We re-investigated the training process of recommendation system and make the training faster and less memory intensive for GPUs. [Arxiv](https://arxiv.org/abs/2202.12429) 
 
 ### Competitive Programming
