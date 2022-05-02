@@ -17,8 +17,6 @@ Refer to my CV for things that I have done.
 ### News
 
 \[2022/04\] I am going to UChicago for my PhD this fall!
-\[2021/10\] I, with my teammates, went to ICPC World Finals at Moscow and won the 17th place!
-\[2020/09\] I am joining ByteDance as a research intern on machine learning system!
 
 ### Research Projects
 I did various research projects both in my university and at ByteDance, including:
