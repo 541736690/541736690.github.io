@@ -6,7 +6,7 @@ description:
 
 ## Hi!
 
-![head](./head.jpg)
+![head](./imgs/head.jpg)
 
 
 I am Ziyi Zhang, a senior undergrad majoring in Computer Sciences and Mathematics at University of Wisconsin-Madison. It is my pleasure to be advised by [Prof. Shivaram Venkataraman](https://shivaram.org/) on system research and by [Prof. Dieter van Melkebeek](https://pages.cs.wisc.edu/~dieter/) on competitive programming.
