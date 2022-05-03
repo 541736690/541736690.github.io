@@ -5,10 +5,8 @@ description: a little bit of cultivation
 ---
 
 ### ICPC Coaching
-I started helping with coaching the ICPC teams at Madison (when I was not a participant) since Sept. 2019. I: 
-- Led discussions on problem sets and topics including graph theory and data structure
-- Discussed with different teams about contest strategies
-- Set up 3 contests with other coaches and wrote test generators and checkers for the problems
+I started helping with coaching ICPC teams at Madison (when I was not a participant) since Sept. 2019. I: 
+- Led discussions on problem sets and topics, including recently designing [a line of lectures](https://pages.cs.wisc.edu/~dieter/ICPC/21-22/) for advanced topics
 - Attended ICPC World Finals 2019 as a coach
 
 ### Peer mentoring
