@@ -6,6 +6,9 @@ description:
 
 ## Hi!
 
+![head](./head.jpg)
+
+
 I am Ziyi Zhang, a senior undergrad majoring in Computer Sciences and Mathematics at University of Wisconsin-Madison. It is my pleasure to be advised by [Prof. Shivaram Venkataraman](https://shivaram.org/) on system research and by [Prof. Dieter van Melkebeek](https://pages.cs.wisc.edu/~dieter/) on competitive programming.
 
 My research interests lie in distributed systems and machine learning systems. The projects I worked on include low-level DNN operator accelerations, high-level ML system pipeline optimizations, and video processing system development. I am particularly interested in designing high-performance ML/Big Data Systems. 
