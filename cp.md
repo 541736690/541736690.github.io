@@ -21,6 +21,6 @@ I started doing competitive programming in my undergrad, and I am glad to be a p
 
 ### Online (Gaming)
 
-I, also known as [RobeZH](https://codeforces.com/profile/RobeZH), is an International Grandmaster on Codeforces with a highest rating of 2707 and a highest global rank of 169. I am also active on other sites like [Atcoder](https://atcoder.jp/users/RobeZH), [Codechef](https://www.codechef.com/users/robezh765), etc.
+I, also known as [RobeZH](https://codeforces.com/profile/RobeZH), is an International Grandmaster on Codeforces with a highest rating of 2716 and a highest global rank of 169. I am also active on other sites like [Atcoder](https://atcoder.jp/users/RobeZH), [Codechef](https://www.codechef.com/users/robezh765), etc.
 
 ![cf](./imgs/cf.png)
